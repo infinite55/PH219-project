@@ -1,4 +1,4 @@
-# PH219-Project-Group-6
+# PH219-Project-Group6
 
 To run this codes, make sure that these .C files and your .root file are in one directory.
 
